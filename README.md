@@ -233,7 +233,7 @@ Run Streamlit Application
 
 ## 👨‍💻 Author
 
-**Ayan**
+** Mohd Ayan**
 
 This project was developed as part of my machine learning learning journey to gain practical experience in ANN development, preprocessing, and application deployment.
 
